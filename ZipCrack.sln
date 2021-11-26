@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCrack", "ZipCrack\ZipCrack.csproj", "{82CC0763-5F0A-40B4-A26B-F8972864027D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CC0763-5F0A-40B4-A26B-F8972864027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CC0763-5F0A-40B4-A26B-F8972864027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CC0763-5F0A-40B4-A26B-F8972864027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CC0763-5F0A-40B4-A26B-F8972864027D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {291F5D41-557E-449C-A497-C5CD538CF4A1}
+	EndGlobalSection
+EndGlobal
